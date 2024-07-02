@@ -3,6 +3,7 @@ Company : CODTECH IT SOLUTIONS
 ID : CT08DS2046 Domain : Internet Of Things 
 Duration : 10th June-10th July 2024 
 OVERVIEW OF THE PROJECT: 
+
 ![Screenshot 2024-07-02 183942](https://github.com/chandukrishnappa/CODTECH-Task-1/assets/145578247/15a2c62e-4aff-45d7-ab58-76c93901e7e6)
 
 PROJECT : WEATHER MONITORING SYSTEM 
